@@ -1,16 +1,27 @@
-# textfield
+# 🌐 Facebook Login UI - Flutter App
 
-A new Flutter project.
+This is a simple **Flutter project** that looks like a Facebook login page. It uses basic Flutter widgets and Material Design styling.
 
-## Getting Started
+## 📱 What This App Includes
 
-This project is a starting point for a Flutter application.
+- Facebook-style **AppBar**
+- Facebook **logo loaded from the internet**
+- Two input fields:
+  - Phone or Email
+  - Password
+- A **Login** button
+- "OR" separator text
+- "Forgot Password?" link in grey
 
-A few resources to get you started if this is your first Flutter project:
+## 🧰 Tools & Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter 3.32.4 (stable)
+- Dart 3.8.1
+- Material Design
+- Widgets used: `AppBar`, `Column`, `TextField`, `ElevatedButton`, `Image.network`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📸 Screenshot
+
+![Facebook UI](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTJo2K5OxS1H7PF9MRGe_GVstfIMgx50Bvmg&s)
